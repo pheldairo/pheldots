@@ -10,7 +10,7 @@ Simple (Archbtw)Linux Personal Dotfiles made public.
 > Panel: Hyprpanel (pywal used);<br/>
 > Music Player: Spotify (With Spicetify);<br/>
 > Font: ttf-jetbrains-mono-nerd;<br/>
-> Terminal: zsh + p10k
+> Terminal: zsh + p10k; <br/>
 > Terminal leisure: tty-clock, cbonsai.
 
 # Installation
