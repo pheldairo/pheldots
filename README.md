@@ -14,7 +14,7 @@ Simple (Archbtw)Linux Personal Dotfiles made public.
 > Terminal leisure: tty-clock, cbonsai.
 
 # Installation
-1. ```git clone https://github.com/pheldairo/pheldots.git ~/pheldots"
+1. ```git clone https://github.com/pheldairo/pheldots.git ~/pheldots"```
 2. Install Packages from "Used things" (```yay -S hyprland ags-hyprpanel-git kitty dolphin spotify-launcher rofi ttf-jetbrains-mono-nerd pywal``` or ```paru -S hyprland ags-hyprpanel-git kitty dolphin spotify-launcher rofi ttf-jetbrains-mono-nerd pywal```);
 3. Install necessary dependencies for hyprpanel (```paru -S --needed aylurs-gtk-shell-git wireplumber libgtop bluez bluez-utils btop networkmanager dart-sass wl-clipboard brightnessctl swww python upower pacman-contrib power-profiles-daemon gvfs gtksourceview3 libsoup3 grimblast-git wf-recorder-git hyprpicker matugen-bin python-gpustat hyprsunset-git```);
 4. Recheck everything, then copy files using ```sudo cp -r . ~/.config/```.
